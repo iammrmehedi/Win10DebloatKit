@@ -7,7 +7,8 @@
 <h4 align="center">This Debloat Kit is Provided By THEWORLDOFPC. </h4>
 
 # Download:
-<a href="https://www.mediafire.com/file/scg32zd31y5ewod/Windows_10_Ultimate_Debloater_By_WPC.zip/file" >Mediafire</a>
+- <a href="https://www.mediafire.com/file/scg32zd31y5ewod/Windows_10_Ultimate_Debloater_By_WPC.zip/file" >Mediafire</a>
+- <a href="https://github.com/iammrmehedi/Win10UltimateDebloat/files/7367671/Win10UltimateDebloat.v1.0.zip">Github</a>
 # Social:
 - Youtube: <a href="https://www.youtube.com/theworldofpc" target="_blank">THEWORLDOFPC </a>
 - Website: <a href="https://nexusliteos.blogspot.com/" target="_blank">THEWORLDOFPC </a>
